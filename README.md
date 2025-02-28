@@ -76,7 +76,6 @@ This project aims to build a CNN model capable of accurately classifying handwri
 The dataset used is the MNIST dataset, which consists of 60,000 training images and 10,000 test images of handwritten digits.
 
 ## Usage
-2
 
 1.  **Run the model:**
 
