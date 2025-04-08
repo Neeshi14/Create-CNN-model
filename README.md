@@ -53,9 +53,7 @@ The dataset used is the MNIST dataset, which consists of 60,000 training images 
 The model's performance is evaluated on both the training and test sets, and the following metrics are reported:
 
 * **Accuracy**
-
-### Results
-
+* 
 * **Training Accuracy:** 99.38%
 * **Testing Accuracy:** 98.95%
 
@@ -121,11 +119,7 @@ The dataset used is the MNIST dataset, which consists of 60,000 training images 
 
 The model's performance is evaluated on the test set, and the following metric is reported:
 
-* **Accuracy:** 97.87%
-
-## Results
-
-The CNN model achieves an accuracy of 97.87% on the MNIST test set, demonstrating its effectiveness in classifying handwritten digits.
+* **Test Accuracy:** 97.87%
 
 ## Visualizations
 
